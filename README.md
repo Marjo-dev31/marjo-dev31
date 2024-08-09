@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marjory</h1>
 <h3 align="center">A passionate web developer and I look forward to working with you 🫵 ! </h3>
 
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZtYWV4bWR5OHRtdzIza2l5MmV5ZThiNnd3dHMzdXBtMHh4ZXlqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="181" /></p>
 - 🔭 I’m currently working on **obtain my test** with Arcadia project !
 
 - 🌱 I’m currently learning **Studi courses and many others supports**
