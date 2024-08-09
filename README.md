@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marjory</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **Arcadia**
+- 🔭 I’m currently working on **obtain my test** with Arcadia project !
 
 - 🌱 I’m currently learning **Studi courses and many others supports**
 
 - 📫 How to reach me **marjory.bravo.dev@gmail.com**
 
-- ⚡ Fun fact **SO far so goof !**
+- ⚡ Fun fact **So far so good !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
