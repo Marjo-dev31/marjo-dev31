@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marjory</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate web developer and I look forward to working with you 🫵 ! </h3>
+
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 
 - 🔭 I’m currently working on **obtain my test** with Arcadia project !
 
