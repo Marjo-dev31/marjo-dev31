@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZtYWV4bWR5OHRtdzIza2l5MmV5ZThiNnd3dHMzdXBtMHh4ZXlqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="181" /></p>
-- 🔭 After obtaining my degree with Arcadia project, I’m currently working on TCR project !
+- 🔭 After obtaining my degree with Arcadia project, I’m currently working on JO project !
 
 - 🌱 I’m currently learning **Studi courses and many others supports**
 
